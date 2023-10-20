@@ -786,8 +786,3 @@ echo $VARIABLE
 ```
 unset
 ```
-   
-###### ne pas toucher ça:
-###
-```
-```
