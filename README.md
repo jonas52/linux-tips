@@ -776,7 +776,7 @@ whereis and which
 ```
 ### Set a temporary environment variable (just an example, but use the same syntax)
 ```
-export MY_SITE="linuxconfig.org"
+export MY_SITE="yourwebsite.com"
 ```
 ### echo $VARIABLE
 ```
